@@ -24,3 +24,9 @@ git remote add origin https://github.com/mgl2809/github.git
 git push -u origin master .- para enviar los cambios de local a Github web
 git clone y la ruta https://github.com/itebmiranda/test.git.- para clonar el proyecto completo
 git pull origin master 
+git branch.- pra ver en que rama estamos trabajando
+git checkout -b rama.- crea la rama y la posiciona en rama
+git checout rama.- solo cambia a la rama seleccioanda
+Fork
+
+
