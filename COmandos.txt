@@ -27,6 +27,9 @@ git pull origin master
 git branch.- pra ver en que rama estamos trabajando
 git checkout -b rama.- crea la rama y la posiciona en rama
 git checout rama.- solo cambia a la rama seleccioanda
-Fork
+Fork.- permite realizar una copia del repositorio actual
+git merge ramaweb ramalocal.- trae todo lo de la rama local a la rama web 
+enseguida se hace el push de la rama web
+
 
 
